@@ -1,2 +1,2 @@
 # amateur-night-
-learnig curve inflecting 
+learning curve inflecting 
